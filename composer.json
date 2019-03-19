@@ -1,6 +1,6 @@
 {
   "name": "bqdove/allinpay",
-  "description": "This is a allinpay ",
+  "description": "通联支付sdk开发包 ",
   "type": "library",
   "keywords": [
     "支付",
